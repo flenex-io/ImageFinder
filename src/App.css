@@ -1,0 +1,42 @@
+body {
+  background-color: #202123;
+}
+
+.search-input {
+  border-radius: 20px;
+  width: 50%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  outline: none;
+  transition: border 0.2s;
+}
+
+.search-input:focus {
+  border: 1px solid #007bff;
+}
+
+select {
+  width: 20%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  outline: none;
+  transition: border 0.2s;
+}
+
+select:focus {
+  border: 1px solid #007bff;
+}
+
+option {
+  font-size: 16px;
+  background-color: #fff;
+  color: #333;
+}
+
+option:checked {
+  background-color: #007bff;
+  color: #fff;
+}
