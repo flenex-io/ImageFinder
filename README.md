@@ -17,10 +17,7 @@ ImageFInder is a web application that allows you to fetch images from Pixabay us
 
 2. **Select Number of Images:**
    - Choose the number of images you want to see in your search results.
-
-3. **View Results:**
-   - Click the search button, and ImageFInder will fetch and display the relevant images from Pixabay.
-
+   - 
 ## Getting Started
 
 To get started with ImageFInder, follow these steps:
