@@ -22,10 +22,23 @@ ImageFInder is a web application that allows you to fetch images from Pixabay us
 
 To get started with ImageFInder, follow these steps:
 
-1. Clone this repository to your local machine.
+1. Clone this repository
+   ```bash
+   git clone https://github.com/flenex-io/ImageFinder.git
+   ```
 
-2. Open the project in your favorite code editor.
+2. Change the repository
+   ```bash
+   cd ImageFinder
+   ```
 
-3. Set up the necessary environment variables and API keys if required for the Pixabay API.
+3. Create a .env file in src folder and type
+   ```bash
+   REACT_APP_PIXABAY_API_KEY=
+   ```
+   and enter your api key
 
-4. Run the application and start searching for images!
+4. Run the project
+   ```bash
+   npm install
+   ```
