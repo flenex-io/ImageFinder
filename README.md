@@ -34,7 +34,7 @@ To get started with ImageFInder, follow these steps:
 
 3. Create a .env file in src folder and type
    ```bash
-   REACT_APP_PIXABAY_API_KEY=
+   REACT_APP_PIXABAY_API_KEY= Your API Key
    ```
    and enter your api key
 
