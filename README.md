@@ -41,3 +41,4 @@ To get started with ImageFInder, follow these steps:
    ```bash
    npm install
    ```
+## Open For Contributions
