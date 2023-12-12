@@ -1,6 +1,6 @@
 # ImageFInder
 
-ImageFInder is a web application that allows you to fetch images from Pixabay using the Pixabay API. It provides a simple and user-friendly way to find the images you're looking for. You can specify your search query, select the number of images you want to retrieve, and quickly view the results.
+ImageFInder is a tool that allows you to fetch images from Pixabay using the Pixabay API. It provides a simple and user-friendly way to find the images you're looking for. You can specify your search query, select the number of images you want to retrieve, and quickly view the results.
 
 ## Features
 
